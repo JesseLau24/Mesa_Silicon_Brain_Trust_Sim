@@ -44,20 +44,3 @@ Designed to run lightweight on **ARM64 (Raspberry Pi CM4 / uConsole)** for code 
 * **Memory Model:** Lightweight Episodic Memory Matrices with exponential decay (no heavy LLM inference bottlenecks required).
 
 ---
-
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone [https://github.com/your-username/silicon-brain-trust-sim.git](https://github.com/your-username/silicon-brain-trust-sim.git)
-cd silicon-brain-trust-sim
-
-# Create and activate virtual environment
-python3 -m venv sim_env
-source sim_env/bin/activate
-
-# Install dependencies
-pip install mesa numpy pandas matplotlib seaborn networkx jupyterlab
-
-# Launch JupyterLab
-jupyter lab
