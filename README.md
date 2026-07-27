@@ -1,5 +1,5 @@
 # CNC_001_ASS_5_ECO
-This is an ASS (Agentic Society Simulation) project that simulates a society with five different types of agents and how they interact with each other.
+This is an **ASS** (Agentic Society Simulation) project that simulates a society with five different types of agents and how they interact with each other.
 
 # 🪐 Silicon Brain Trust: Agentic Society Simulation
 
