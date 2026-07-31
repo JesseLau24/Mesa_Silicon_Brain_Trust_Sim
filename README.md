@@ -43,6 +43,8 @@ Designed to run lightweight on **ARM64 (Raspberry Pi CM4 / uConsole)** for code 
 * **Visualization:** JupyterLab, Solara, Matplotlib / Seaborn
 * **Memory Model:** Lightweight Episodic Memory Matrices with exponential decay (no heavy LLM inference bottlenecks required).
 
+### Python version: 3.11.2
+
 ```
 pip list
 Package                   Version
