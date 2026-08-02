@@ -17,3 +17,6 @@ rl_torch/
 # VS Code / IDE 临时配置
 .vscode/
 .idea/
+
+# Generated media files / 忽略生成的.mp4文件
+*.mp4
